@@ -11,7 +11,7 @@ require (
 	github.com/prometheus/client_golang v1.17.0
 	github.com/purini-to/zapmw v1.1.0
 	github.com/slok/go-http-metrics v0.11.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.11.1
 	go.uber.org/zap v1.26.0
 	golang.org/x/sync v0.5.0
 	gopkg.in/yaml.v2 v2.4.0
